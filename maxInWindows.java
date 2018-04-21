@@ -20,7 +20,6 @@ public class Solution {
                 res.add(num[dq.getFirst()]);
             }
         }
-
         return res;        
     }
 }
